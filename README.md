@@ -38,4 +38,7 @@ If find this code repository helpful, please consider citing the following paper
   journal={arXiv preprint arXiv:2404.14688},
   year={2024}
 }
+
+### Acknowledgement
+This repository is adapted from [In-Context Operator Networks (ICON)](https://github.com/LiuYangMage/in-context-operator-networks).
 ```
