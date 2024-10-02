@@ -31,8 +31,7 @@ The analysis code and run commands are located in the `analysis/` folder.
 If find this code repository helpful, please consider citing the following paper:
 
 ```
-@article{song2024fmint,\input{README.md}
-
+@article{song2024fmint,
   title={Fmint: Bridging human designed and data pretrained models for differential equation foundation model},
   author={Song, Zezheng and Yuan, Jiaxin and Yang, Haizhao},
   journal={arXiv preprint arXiv:2404.14688},
